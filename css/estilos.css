@@ -1,0 +1,164 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.logotipo{
+    width: 150px;
+    padding: 10px 0;   
+}
+
+.sps--abv {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+}
+
+.sps--blw {
+    background-color: #000;
+    color: #000;
+}
+
+
+nav.sps--abv .logotipo {
+    width: 180px;
+
+}
+
+
+.logosmenu{
+    width: 20px;
+    margin: 10px 5px;
+}
+
+.banner-video{
+    background-image: url("../images/home/video-bg.jpg");
+    padding: 200px 0px;
+    position: relative;
+    text-align: center; 
+}
+
+.banner-video img{
+    width: 80px;
+    height: 80px;
+    position: relative;   
+}
+
+
+.altura-a-b{
+    padding: 100px 0;
+}
+
+.separacion{
+    padding: 30px 0;
+}
+
+footer{
+    background-color: black;
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer .logofutter{
+    width: 200px;
+    margin-bottom: 20px;
+
+}
+
+footer p{
+    color: rgb(197, 188, 188);
+    
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+}
+
+
+.btn-light {
+    color: #ffffff;
+    background-color: #f8f9fa0f;
+    border-color: #f8f9fa;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+/* Somos cabecera */
+
+.cabecera-somos{
+    padding: 150px 0 100px 0;
+    background-image: url("../images/somos/slider-interior.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/somos/slider-interior.jpg");
+
+}
+
+.texto-blanco{
+    color: white;
+}
+
+
+.banner-equipo {
+    padding: 150px 0 100px 0;
+    background-image: url("../images/somos/somos-equipo.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/somos/somos-equipo.jpg");
+    margin-top: -5px;
+    text-align: center;
+    
+}
+
+/* .btn-light {
+    color: #ffffff;
+    background-color: #f8f9fa0f;
+    border-color: #f8f9fa;
+    border-radius: 10px;
+    margin-top: -20px;
+} */
+
+
+.partner{
+    width: 180px;
+}
+
+.textopartner{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Raleway', Medium Italic;
+}
+
+.altura{
+    margin-top: -120px;
+}
+
+.texto-3{
+    margin-top: 20px;
+}
+
+.appleandroid{
+    margin-top: 20px;
+}
+
+
+.boton{
+    margin-top: 20px;
+
+}
+
+
+
+
